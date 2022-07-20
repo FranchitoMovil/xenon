@@ -1,6 +1,6 @@
 // Supports ES6
 // import { create, Whatsapp } from 'venom-bot';
-const venom = require('venom-bot-server');
+const venom = require('venom-bot');
 
 fs = require('fs');
 mime = require('mime-types');
