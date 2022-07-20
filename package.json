@@ -1,0 +1,22 @@
+{
+  "name": "xenoswpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "graceful-fs": "^4.2.9",
+    "node-video-resize": "^1.0.1",
+    "venom-bot": "^4.0.7",
+    "venom-bot-server": "^1.3.2"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
+  }
+}
